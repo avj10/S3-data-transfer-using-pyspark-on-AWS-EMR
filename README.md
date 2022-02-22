@@ -7,3 +7,8 @@
 3. Get Data-size for source format.
 4. Using EMR Cluster write it to destination bucket.
 5. User can provide output format ( can be parquet or json)
+
+
+#### **Packages required:**
+1. sudo pip-3.7 install boto3
+2. sudo pip-3.7 install mysql-connector-python
